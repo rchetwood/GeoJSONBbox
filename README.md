@@ -1,4 +1,4 @@
-"# GeoJSONBbox
+# GeoJSONBbox
 
 To run use the following command in cmd from project directory: mvn compile exec:java -Dexec.mainClass=<path-to-main> -Dexec.args=<path-to-json-file>
 
