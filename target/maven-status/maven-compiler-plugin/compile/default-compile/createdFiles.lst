@@ -1,0 +1,5 @@
+com\maxar\codechallenge\chetwood\App.class
+com\maxar\codechallenge\chetwood\entity\GeoJsonObject.class
+com\maxar\codechallenge\chetwood\entity\Polygon.class
+com\maxar\codechallenge\chetwood\entity\Geometry.class
+com\maxar\codechallenege\chetwood\json\JsonParser.class
