@@ -16,7 +16,7 @@ public class App
 {
     public static void main( String[] args ) throws JsonProcessingException {
 
-        if(args == null) {
+        if(args.length == 0) {
             System.out.println("Please add GeoJSON file path");
             exit(0);
         }
